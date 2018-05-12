@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '26595'
     url: http://www.gutenberg.org/2009/agents/26595
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24581#Colonel-John-Brown-of-Pittsfield-Massachusetts-the-Brave-Accuser-of-Benedict-Arnold
 gutenberg_issued: '2008-02-11'
 gutenberg_type: Text
 identifiers:
